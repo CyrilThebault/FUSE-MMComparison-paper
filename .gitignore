@@ -1,0 +1,7 @@
+00_DATA/*
+Shp/*
+
+!00_DATA/.gitkeep
+!Shp/.gitkeep
+.DS_Store
+.Rhistory
