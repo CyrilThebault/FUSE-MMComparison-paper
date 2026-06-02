@@ -9,7 +9,7 @@ This repository allows for the reproduction of results from the paper:
 
 The repository is organized as follows:
 
-- **`00_DATA/`**: Contains the evaluation metrics and sampling uncertainty from individual FUSE models, multi-model mosaics, static combinations, and dynamic combination approaches. The lists of FUSE decisions, parameters for the dynamic combination and catchments informations are also provided here. The data can be download directly from: XXXX
+- **`00_DATA/`**: Contains the evaluation metrics and sampling uncertainty from individual FUSE models, multi-model mosaics, static combinations, and dynamic combination approaches. The lists of FUSE decisions, parameters for the dynamic combination and catchments informations are also provided here. The data can be download directly from: (https://www.hydroshare.org/resource/53063da8fc894149b5b25f3201d1e8e8/)
 
 - **`01_FUSEscripts/`**: Includes scripts to run individual FUSE models. These scripts help set up, execute and evaluate the 78 hydrological models used in the study.
 
@@ -25,7 +25,7 @@ The repository is organized as follows:
 
 - **`99_Figures/`**: Include the figures generated with `80_Visualisation/`.
 
-- **`Shp/`**: Include USA boundaries shapefile (from “North American Atlas - Political Boundaries” (Commission for Environmental Cooperation, 2022)) and catchment shapefiles (derived from CAMELS dataset (Addor et al, 2017)) used in `04_Visualisation/`. The folder can be download directly from: XXXX
+- **`Shp/`**: Include USA boundaries shapefile (from “North American Atlas - Political Boundaries” (Commission for Environmental Cooperation, 2022)) and catchment shapefiles (derived from CAMELS dataset (Addor et al, 2017)) used in `04_Visualisation/`. The folder can be download directly from: (https://www.hydroshare.org/resource/53063da8fc894149b5b25f3201d1e8e8/)
 
 Metrics.R file includes various functions to calculate metrics for streamflow evaluation. 
 
@@ -65,4 +65,4 @@ To run the scripts, ensure you have the following dependencies installed:
 
 If you use this repository or its outputs in your research, please cite:
 
-> Thébault, C., Knoben W. J. M., Addor, N., Newman, A. J., Spieler, D., Vásquez, N. A., Song, Y., Gründemann, G., J., Carney, S., Kumar, M., van Werkhoven, K., Shen, C., Wood, A., W., Clark, M. P. (2026). *Comparing multi-model mosaic and multi-model combination methods to simulate streamflow across the contiguous USA*.
+> Thébault, C., Knoben W. J. M., Addor, N., Newman, A. J., Spieler, D., Vásquez, N. A., Song, Y., Gründemann, G., J., Carney, S., Kumar, M., van Werkhoven, K., Shen, C., Wood, A., W., Clark, M. P. (2026). *Comparing multi-model mosaic and multi-model combination methods to simulate streamflow across the contiguous USA*. Hydrology and Earth System Sciences.
