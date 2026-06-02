@@ -3,7 +3,7 @@
 This repository allows for the reproduction of results from the paper:
 
 **"Comparing multi-model mosaic and multi-model combination methods to simulate streamflow across the contiguous USA"**  
-*Cyril Thébault, Wouter J. M. Knoben, Nans Addor, Andrew J. Newman, Diana Spieler, Nicolás A. Vásquez, Yalan Song, Gaby J. Gründemann, Shaun Carney, Mukesh Kumar, Katie van Werkhoven, Chaopeng Shen, Andrew W. Wood, and Martyn P. Clark (2026). Hydrology and Earth System Sciences, HESS.*
+*Cyril Thébault, Wouter J. M. Knoben, Nans Addor, Andrew J. Newman, Diana Spieler, Nicolás A. Vásquez, Yalan Song, Gaby J. Gründemann, Shaun Carney, Mukesh Kumar, Katie van Werkhoven, Chaopeng Shen, Andrew W. Wood, and Martyn P. Clark (2026). Hydrology and Earth System Sciences, HESS. https://doi.org/10.5194/egusphere-2025-6083*
 
 ## Repository Structure
 
@@ -65,4 +65,4 @@ To run the scripts, ensure you have the following dependencies installed:
 
 If you use this repository or its outputs in your research, please cite:
 
-> Thébault, C., Knoben W. J. M., Addor, N., Newman, A. J., Spieler, D., Vásquez, N. A., Song, Y., Gründemann, G., J., Carney, S., Kumar, M., van Werkhoven, K., Shen, C., Wood, A., W., Clark, M. P. (2026). *Comparing multi-model mosaic and multi-model combination methods to simulate streamflow across the contiguous USA*. Hydrology and Earth System Sciences.
+> Thébault, C., Knoben W. J. M., Addor, N., Newman, A. J., Spieler, D., Vásquez, N. A., Song, Y., Gründemann, G., J., Carney, S., Kumar, M., van Werkhoven, K., Shen, C., Wood, A., W., Clark, M. P. (2026). *Comparing multi-model mosaic and multi-model combination methods to simulate streamflow across the contiguous USA*. Hydrology and Earth System Sciences. https://doi.org/10.5194/egusphere-2025-6083
