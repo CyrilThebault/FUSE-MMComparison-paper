@@ -3,7 +3,7 @@
 This repository allows for the reproduction of results from the paper:
 
 **"Comparing multi-model mosaic and multi-model combination methods to simulate streamflow across the contiguous USA"** 
-*Hydrology and Earth System Sciences, HESS*
+*Hydrology and Earth System Sciences, HESS.* 
 *Cyril Thébault, Wouter J. M. Knoben, Nans Addor, Andrew J. Newman, Diana Spieler, Nicolás A. Vásquez, Yalan Song, Gaby J. Gründemann, Shaun Carney, Mukesh Kumar, Katie van Werkhoven, Chaopeng Shen, Andrew W. Wood, and Martyn P. Clark (2026)* 
 
 ## Repository Structure
